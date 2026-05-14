@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: cfee3cd2a8744c6c.mx2.emailprofi.seznam.cz
-mx: cfee3cd2a8744c6c.mx1.emailprofi.seznam.cz
+mx: mail.atok.cz
 max_age: 86400
